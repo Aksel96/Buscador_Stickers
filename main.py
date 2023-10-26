@@ -3,9 +3,6 @@
 # 2023
 
 import tkinter as tk
-from PIL import Image, ImageTk
-import requests
-from io import BytesIO
 
 # Lista de palabras de ejemplo
 lista_palabras = ["chango", "chango riendo", "chango con paleta", "chango al chile que bueno",
